@@ -16,12 +16,13 @@ function App() {
 
 
   return (
+   
     <div className="grid-container">
 
-      <head>
+     
         <link rel="stylesheet" href="style.css" />
         <title>Urban Storm</title>
-      </head>
+      
 
       <body>
         <div>
@@ -99,8 +100,9 @@ function App() {
             &copy; 2024 Urban Storm
           </footer>
         </div>
-      </body>
-    </div>
+        </body>
+      </div>
+    
   );
 }
 
