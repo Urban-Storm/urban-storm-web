@@ -1,6 +1,7 @@
 export default {
     products: [{
-        name: 'Shirt',
+        name: 'Dry-Fit Shirt',
+        category: 'shirt',
         imageUrl: '/images/d1.jpg',
         price: 60,
         brand: 'Nike',
@@ -8,7 +9,8 @@ export default {
         numberOfReviews: 10,
     },
         {
-        name: 'Shirt',
+        name: 'Slim Shirt',
+        category: 'shirt',
         imageUrl: '/images/d1.jpg',
         price: 60,
         brand: 'Nike',
@@ -16,7 +18,8 @@ export default {
         numberOfReviews: 10,
         },
         { 
-        name: 'Shirt',
+        name: 'Tee Shirt',
+        category: 'shirt',
         imageUrl: '/images/d1.jpg',
         price: 60,
         brand: 'Nike',
