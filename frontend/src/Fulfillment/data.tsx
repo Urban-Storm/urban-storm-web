@@ -8,8 +8,8 @@ export default {
         },
         isPaid: true,
         paidAt: '02/14/2021',
-        isDelivered: false,
-        deliveredDate: null,
+        isDelivered: true,
+        deliveredDate: '02/16/2021',
     },
         {
         _id: 2,
