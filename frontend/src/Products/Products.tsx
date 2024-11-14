@@ -48,7 +48,7 @@ function Products() {
                     </div>
                     </li>
                 ))}
-                ;
+                
             </ul>
         </div>
     );
